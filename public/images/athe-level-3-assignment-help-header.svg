@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="ATHE Level 3 Assignment Help — Extended Diploma guidance for Business, Healthcare and Tourism students">
+  <title>ATHE Level 3 Assignment Help: Extended Diploma Expert Guidance</title>
+  <desc>ATHE Level 3 Extended Diploma assignment help banner showing RQF Level 3 equivalency to A-levels, subject areas covered including Business Management, Healthcare and Tourism and Hospitality, and Pass Merit Distinction grading support for coursework-only assessment.</desc>
+
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1B2B4B"/>
+      <stop offset="55%" style="stop-color:#152240"/>
+      <stop offset="100%" style="stop-color:#0F1A30"/>
+    </linearGradient>
+    <radialGradient id="glow3" cx="72%" cy="45%" r="40%">
+      <stop offset="0%" style="stop-color:#2ECC71;stop-opacity:0.1"/>
+      <stop offset="100%" style="stop-color:#2ECC71;stop-opacity:0"/>
+    </radialGradient>
+    <filter id="sh3"><feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.3"/></filter>
+  </defs>
+
+  <rect width="1200" height="400" fill="url(#bg3)"/>
+  <rect width="1200" height="400" fill="url(#glow3)"/>
+
+  <!-- Grid -->
+  <g opacity="0.035" stroke="#FFF" stroke-width="1" fill="none">
+    <line x1="0" y1="100" x2="1200" y2="100"/><line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="300" x2="1200" y2="300"/><line x1="300" y1="0" x2="300" y2="400"/>
+    <line x1="600" y1="0" x2="600" y2="400"/><line x1="900" y1="0" x2="900" y2="400"/>
+  </g>
+
+  <!-- Decorative circles -->
+  <circle cx="60" cy="60" r="140" fill="none" stroke="#2ECC71" stroke-width="1" opacity="0.07"/>
+  <circle cx="1160" cy="360" r="110" fill="none" stroke="#2ECC71" stroke-width="1" opacity="0.06"/>
+
+  <!-- Level badge -->
+  <rect x="60" y="48" width="56" height="56" rx="14" fill="#2ECC71"/>
+  <text x="88" y="79" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" fill="#FFF" text-anchor="middle" letter-spacing="0.04em">RQF</text>
+  <text x="88" y="96" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="22" font-weight="800" fill="#FFF" text-anchor="middle">3</text>
+
+  <!-- Equivalency pill -->
+  <rect x="128" y="60" width="156" height="28" rx="14" fill="rgba(46,204,113,0.15)" stroke="rgba(46,204,113,0.4)" stroke-width="1"/>
+  <text x="206" y="79" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" fill="#2ECC71" text-anchor="middle">≡ A-Level Equivalent</text>
+
+  <!-- Main headline -->
+  <text x="60" y="148" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="36" font-weight="800" fill="#FFF" letter-spacing="-0.02em">ATHE Level 3</text>
+  <text x="60" y="190" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="36" font-weight="800" fill="#2ECC71" letter-spacing="-0.02em">Assignment Help</text>
+
+  <!-- Qualification type -->
+  <text x="60" y="222" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="15" fill="rgba(255,255,255,0.65)">Extended Diploma · Coursework-only assessment · No written exams</text>
+
+  <!-- Subject pills -->
+  <g transform="translate(60, 242)">
+    <text x="0" y="14" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="10" font-weight="700" fill="rgba(255,255,255,0.4)" letter-spacing="0.1em">SUBJECTS</text>
+    <rect x="0" y="20" width="136" height="28" rx="14" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+    <text x="68" y="38" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="12" font-weight="500" fill="rgba(255,255,255,0.85)" text-anchor="middle">Business Management</text>
+    <rect x="144" y="20" width="100" height="28" rx="14" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+    <text x="194" y="38" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="12" font-weight="500" fill="rgba(255,255,255,0.85)" text-anchor="middle">Healthcare</text>
+    <rect x="252" y="20" width="148" height="28" rx="14" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+    <text x="326" y="38" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="12" font-weight="500" fill="rgba(255,255,255,0.85)" text-anchor="middle">Tourism &amp; Hospitality</text>
+  </g>
+
+  <!-- Grade bands -->
+  <g transform="translate(60, 318)">
+    <rect x="0" y="0" width="96" height="38" rx="8" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="48" y="14" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="9" font-weight="700" fill="rgba(255,255,255,0.45)" text-anchor="middle" letter-spacing="0.07em">GRADE</text>
+    <text x="48" y="30" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="14" font-weight="700" fill="rgba(255,255,255,0.8)" text-anchor="middle">Pass</text>
+    <rect x="106" y="0" width="96" height="38" rx="8" fill="rgba(241,196,15,0.1)" stroke="rgba(241,196,15,0.3)" stroke-width="1"/>
+    <text x="154" y="14" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="9" font-weight="700" fill="rgba(241,196,15,0.55)" text-anchor="middle" letter-spacing="0.07em">GRADE</text>
+    <text x="154" y="30" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="14" font-weight="700" fill="#F1C40F" text-anchor="middle">Merit</text>
+    <rect x="212" y="0" width="116" height="38" rx="8" fill="rgba(46,204,113,0.15)" stroke="rgba(46,204,113,0.35)" stroke-width="1"/>
+    <text x="270" y="14" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="9" font-weight="700" fill="rgba(46,204,113,0.55)" text-anchor="middle" letter-spacing="0.07em">GRADE</text>
+    <text x="270" y="30" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="14" font-weight="700" fill="#2ECC71" text-anchor="middle">Distinction</text>
+  </g>
+
+  <!-- RIGHT: Info cards -->
+  <g transform="translate(730, 44)" filter="url(#sh3)">
+    <rect width="180" height="96" rx="12" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="16" y="30" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="22">🎓</text>
+    <text x="16" y="56" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#FFF">First Step into</text>
+    <text x="16" y="72" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#2ECC71">Higher Education</text>
+    <text x="16" y="86" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="10" fill="rgba(255,255,255,0.5)">UCAS tariff recognised</text>
+  </g>
+
+  <g transform="translate(930, 44)" filter="url(#sh3)">
+    <rect width="180" height="96" rx="12" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="16" y="30" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="22">📝</text>
+    <text x="16" y="56" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#FFF">No Exams</text>
+    <text x="16" y="72" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#2ECC71">100% Coursework</text>
+    <text x="16" y="86" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="10" fill="rgba(255,255,255,0.5)">LO-based assessment</text>
+  </g>
+
+  <g transform="translate(730, 158)" filter="url(#sh3)">
+    <rect width="180" height="96" rx="12" fill="rgba(46,204,113,0.1)" stroke="rgba(46,204,113,0.25)" stroke-width="1"/>
+    <text x="16" y="30" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="22">📈</text>
+    <text x="16" y="56" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#FFF">Progression to</text>
+    <text x="16" y="72" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#2ECC71">Level 4 Diploma</text>
+    <text x="16" y="86" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="10" fill="rgba(255,255,255,0.5)">RQF framework pathway</text>
+  </g>
+
+  <g transform="translate(930, 158)" filter="url(#sh3)">
+    <rect width="180" height="96" rx="12" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="16" y="30" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="22">✅</text>
+    <text x="16" y="56" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#FFF">LO Coverage</text>
+    <text x="16" y="72" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#FFF">Guaranteed</text>
+    <text x="16" y="86" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="10" fill="rgba(255,255,255,0.5)">Every outcome addressed</text>
+  </g>
+
+  <!-- Includes strip -->
+  <rect x="730" y="278" width="420" height="82" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="750" y="300" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="10" font-weight="700" fill="rgba(255,255,255,0.4)" letter-spacing="0.08em">EVERY ORDER INCLUDES</text>
+  <g font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.75)">
+    <text x="750" y="320"><tspan fill="#2ECC71" font-weight="700">✓ </tspan>LO-mapped written guidance</text>
+    <text x="750" y="340"><tspan fill="#2ECC71" font-weight="700">✓ </tspan>Pass / Merit / Distinction targeting</text>
+    <text x="980" y="320"><tspan fill="#2ECC71" font-weight="700">✓ </tspan>Plagiarism-free</text>
+    <text x="980" y="340"><tspan fill="#2ECC71" font-weight="700">✓ </tspan>Free revisions</text>
+  </g>
+
+  <rect x="0" y="394" width="380" height="6" fill="#2ECC71"/>
+  <rect x="0" y="390" width="1200" height="10" fill="#2ECC71" opacity="0.5"/>
+</svg>

@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="ATHE Assignment Help — Expert Level 3 to Level 7 Qualification Support">
+  <title>ATHE Assignment Help: Expert Guidance for Level 3 to Level 7 Students</title>
+  <desc>Illustrated header showing ATHE qualification progression from Level 3 Extended Diploma to Level 7 Diploma, with Pass, Merit and Distinction grading indicators and academic support services.</desc>
+
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1B2B4B;stop-opacity:1" />
+      <stop offset="60%" style="stop-color:#111D33;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D1627;stop-opacity:1" />
+    </linearGradient>
+    <!-- Accent glow -->
+    <radialGradient id="glow" cx="70%" cy="50%" r="45%">
+      <stop offset="0%" style="stop-color:#2ECC71;stop-opacity:0.12" />
+      <stop offset="100%" style="stop-color:#2ECC71;stop-opacity:0" />
+    </radialGradient>
+    <!-- Card shadow -->
+    <filter id="card-shadow" x="-10%" y="-10%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+    <!-- Text shadow -->
+    <filter id="text-shadow">
+      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+    <!-- Clip path for rounded rectangle -->
+    <clipPath id="card-clip-1"><rect x="0" y="0" width="160" height="90" rx="12"/></clipPath>
+    <clipPath id="card-clip-2"><rect x="0" y="0" width="160" height="90" rx="12"/></clipPath>
+    <clipPath id="card-clip-3"><rect x="0" y="0" width="180" height="90" rx="12"/></clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bg-grad)"/>
+  <rect width="1200" height="400" fill="url(#glow)"/>
+
+  <!-- Subtle grid pattern -->
+  <g opacity="0.04" stroke="#FFFFFF" stroke-width="1" fill="none">
+    <line x1="0" y1="80" x2="1200" y2="80"/>
+    <line x1="0" y1="160" x2="1200" y2="160"/>
+    <line x1="0" y1="240" x2="1200" y2="240"/>
+    <line x1="0" y1="320" x2="1200" y2="320"/>
+    <line x1="200" y1="0" x2="200" y2="400"/>
+    <line x1="400" y1="0" x2="400" y2="400"/>
+    <line x1="600" y1="0" x2="600" y2="400"/>
+    <line x1="800" y1="0" x2="800" y2="400"/>
+    <line x1="1000" y1="0" x2="1000" y2="400"/>
+  </g>
+
+  <!-- Decorative circle accents -->
+  <circle cx="80" cy="80" r="120" fill="none" stroke="#2ECC71" stroke-width="1" opacity="0.08"/>
+  <circle cx="80" cy="80" r="180" fill="none" stroke="#2ECC71" stroke-width="1" opacity="0.05"/>
+  <circle cx="1150" cy="340" r="100" fill="none" stroke="#2ECC71" stroke-width="1" opacity="0.07"/>
+  <circle cx="1150" cy="340" r="160" fill="none" stroke="#2ECC71" stroke-width="1" opacity="0.04"/>
+
+  <!-- ── LEFT SECTION: Main headline ─────────────────────────────── -->
+
+  <!-- ATHE badge pill -->
+  <rect x="60" y="52" width="140" height="28" rx="14" fill="#2ECC71"/>
+  <text x="130" y="71" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.08em">OFQUAL REGULATED</text>
+
+  <!-- Main headline -->
+  <text x="60" y="126" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="38" font-weight="800" fill="#FFFFFF" filter="url(#text-shadow)" letter-spacing="-0.02em">ATHE Assignment Help</text>
+
+  <!-- Subheadline -->
+  <text x="60" y="162" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="400" fill="rgba(255,255,255,0.72)">Expert guidance for every qualification level</text>
+
+  <!-- Level range badge row -->
+  <g transform="translate(60, 188)">
+    <!-- Level 3 -->
+    <rect x="0" y="0" width="78" height="32" rx="6" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+    <text x="39" y="21" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="rgba(255,255,255,0.9)" text-anchor="middle">Level 3</text>
+    <!-- Arrow -->
+    <text x="87" y="21" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="13" fill="rgba(46,204,113,0.8)" text-anchor="middle">→</text>
+    <!-- Level 4 -->
+    <rect x="96" y="0" width="78" height="32" rx="6" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+    <text x="135" y="21" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="rgba(255,255,255,0.9)" text-anchor="middle">Level 4</text>
+    <!-- Arrow -->
+    <text x="183" y="21" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="13" fill="rgba(46,204,113,0.8)" text-anchor="middle">→</text>
+    <!-- Level 5 -->
+    <rect x="192" y="0" width="78" height="32" rx="6" fill="rgba(46,204,113,0.2)" stroke="#2ECC71" stroke-width="1"/>
+    <text x="231" y="21" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#2ECC71" text-anchor="middle">Level 5</text>
+    <!-- Arrow -->
+    <text x="279" y="21" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="13" fill="rgba(46,204,113,0.8)" text-anchor="middle">→</text>
+    <!-- Level 6 -->
+    <rect x="288" y="0" width="78" height="32" rx="6" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+    <text x="327" y="21" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="rgba(255,255,255,0.9)" text-anchor="middle">Level 6</text>
+    <!-- Arrow -->
+    <text x="375" y="21" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="13" fill="rgba(46,204,113,0.8)" text-anchor="middle">→</text>
+    <!-- Level 7 -->
+    <rect x="384" y="0" width="78" height="32" rx="6" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+    <text x="423" y="21" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="rgba(255,255,255,0.9)" text-anchor="middle">Level 7</text>
+  </g>
+
+  <!-- Grade band indicators -->
+  <g transform="translate(60, 252)">
+    <rect x="0" y="0" width="100" height="36" rx="8" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="50" y="13" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="9" font-weight="600" fill="rgba(255,255,255,0.5)" text-anchor="middle" letter-spacing="0.06em">GRADE</text>
+    <text x="50" y="29" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="rgba(255,255,255,0.85)" text-anchor="middle">Pass</text>
+
+    <rect x="110" y="0" width="100" height="36" rx="8" fill="rgba(241,196,15,0.12)" stroke="rgba(241,196,15,0.35)" stroke-width="1"/>
+    <text x="160" y="13" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="9" font-weight="600" fill="rgba(241,196,15,0.6)" text-anchor="middle" letter-spacing="0.06em">GRADE</text>
+    <text x="160" y="29" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#F1C40F" text-anchor="middle">Merit</text>
+
+    <rect x="220" y="0" width="100" height="36" rx="8" fill="rgba(46,204,113,0.15)" stroke="rgba(46,204,113,0.4)" stroke-width="1"/>
+    <text x="270" y="13" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="9" font-weight="600" fill="rgba(46,204,113,0.6)" text-anchor="middle" letter-spacing="0.06em">GRADE</text>
+    <text x="270" y="29" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#2ECC71" text-anchor="middle">Distinction</text>
+  </g>
+
+  <!-- Trust stats row -->
+  <g transform="translate(60, 318)">
+    <text x="0" y="16" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="800" fill="#2ECC71">5,000+</text>
+    <text x="0" y="33" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.55)">Students Helped</text>
+
+    <line x1="96" y1="0" x2="96" y2="36" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+
+    <text x="110" y="16" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="800" fill="#2ECC71">98%</text>
+    <text x="110" y="33" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.55)">Pass Rate</text>
+
+    <line x1="196" y1="0" x2="196" y2="36" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+
+    <text x="210" y="16" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="800" fill="#2ECC71">4.9★</text>
+    <text x="210" y="33" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.55)">Avg Rating</text>
+
+    <line x1="296" y1="0" x2="296" y2="36" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+
+    <text x="310" y="16" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="800" fill="#2ECC71">24/7</text>
+    <text x="310" y="33" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.55)">Support</text>
+  </g>
+
+  <!-- ── RIGHT SECTION: Info cards ───────────────────────────────── -->
+
+  <!-- Card 1: Harvard Referencing -->
+  <g transform="translate(720, 48)" filter="url(#card-shadow)">
+    <rect width="160" height="90" rx="12" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="16" y="28" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="22">📚</text>
+    <text x="16" y="52" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Harvard</text>
+    <text x="16" y="68" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Referencing</text>
+    <text x="16" y="82" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.55)">Level 4 and above</text>
+  </g>
+
+  <!-- Card 2: Criterion-Referenced -->
+  <g transform="translate(900, 48)" filter="url(#card-shadow)">
+    <rect width="180" height="90" rx="12" fill="rgba(46,204,113,0.12)" stroke="rgba(46,204,113,0.3)" stroke-width="1"/>
+    <text x="16" y="28" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="22">🎯</text>
+    <text x="16" y="52" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">LO-Based</text>
+    <text x="16" y="68" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#2ECC71">Assessment</text>
+    <text x="16" y="82" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.55)">Criterion-referenced</text>
+  </g>
+
+  <!-- Card 3: Plagiarism Free -->
+  <g transform="translate(1100, 48)" filter="url(#card-shadow)">
+    <rect width="160" height="90" rx="12" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="16" y="28" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="22">🔍</text>
+    <text x="16" y="52" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Turnitin</text>
+    <text x="16" y="68" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Plagiarism Check</text>
+    <text x="16" y="82" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.55)">Every submission</text>
+  </g>
+
+  <!-- Divider line -->
+  <line x1="700" y1="170" x2="1180" y2="170" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- Subject areas label -->
+  <text x="720" y="198" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="10" font-weight="700" fill="rgba(255,255,255,0.4)" letter-spacing="0.1em">SUBJECT AREAS COVERED</text>
+
+  <!-- Subject pills -->
+  <g transform="translate(720, 210)">
+    <rect x="0" y="0" width="128" height="26" rx="13" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+    <text x="64" y="17" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="500" fill="rgba(255,255,255,0.8)" text-anchor="middle">Business Management</text>
+
+    <rect x="136" y="0" width="148" height="26" rx="13" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+    <text x="210" y="17" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="500" fill="rgba(255,255,255,0.8)" text-anchor="middle">Healthcare Management</text>
+
+    <rect x="292" y="0" width="82" height="26" rx="13" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+    <text x="333" y="17" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="500" fill="rgba(255,255,255,0.8)" text-anchor="middle">Computing</text>
+
+    <rect x="0" y="34" width="108" height="26" rx="13" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+    <text x="54" y="51" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="500" fill="rgba(255,255,255,0.8)" text-anchor="middle">Tourism &amp; Hospitality</text>
+
+    <rect x="116" y="34" width="74" height="26" rx="13" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+    <text x="153" y="51" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="500" fill="rgba(255,255,255,0.8)" text-anchor="middle">Education</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="700" y1="300" x2="1180" y2="300" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- What's included label -->
+  <text x="720" y="326" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="10" font-weight="700" fill="rgba(255,255,255,0.4)" letter-spacing="0.1em">EVERY ORDER INCLUDES</text>
+
+  <!-- Included items -->
+  <g transform="translate(720, 336)" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="12" fill="rgba(255,255,255,0.75)">
+    <text x="0" y="16"><tspan fill="#2ECC71" font-weight="700">✓ </tspan>LO-mapped written guidance</text>
+    <text x="240" y="16"><tspan fill="#2ECC71" font-weight="700">✓ </tspan>Unlimited revisions</text>
+    <text x="0" y="36"><tspan fill="#2ECC71" font-weight="700">✓ </tspan>Harvard referencing (L4+)</text>
+    <text x="240" y="36"><tspan fill="#2ECC71" font-weight="700">✓ </tspan>Turnitin originality report</text>
+  </g>
+
+  <!-- Bottom accent bar -->
+  <rect x="0" y="390" width="1200" height="10" fill="#2ECC71" opacity="0.6"/>
+  <rect x="0" y="394" width="480" height="6" fill="#2ECC71"/>
+</svg>

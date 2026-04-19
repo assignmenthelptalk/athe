@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="ATHE Level 7 Assignment Help — Postgraduate-equivalent Diploma guidance for Strategic Management and Healthcare Management">
+  <title>ATHE Level 7 Assignment Help: Postgraduate Strategic Management and Healthcare Management Expert Guidance</title>
+  <desc>ATHE Level 7 Diploma assignment help banner showing RQF Level 7 postgraduate equivalency for Strategic Management and Healthcare Management, NHS Long Term Plan and leadership framework support, Distinction-level critical synthesis requirements, and support for NHS managers, HR directors and senior professionals.</desc>
+
+  <defs>
+    <linearGradient id="bg7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#111D33"/>
+      <stop offset="50%" style="stop-color:#0D1829"/>
+      <stop offset="100%" style="stop-color:#080F1A"/>
+    </linearGradient>
+    <radialGradient id="glow7" cx="67%" cy="45%" r="44%">
+      <stop offset="0%" style="stop-color:#2ECC71;stop-opacity:0.14"/>
+      <stop offset="100%" style="stop-color:#2ECC71;stop-opacity:0"/>
+    </radialGradient>
+    <linearGradient id="badge7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2ECC71"/>
+      <stop offset="100%" style="stop-color:#27AE60"/>
+    </linearGradient>
+    <filter id="sh7"><feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.35"/></filter>
+  </defs>
+
+  <rect width="1200" height="400" fill="url(#bg7)"/>
+  <rect width="1200" height="400" fill="url(#glow7)"/>
+
+  <g opacity="0.04" stroke="#FFF" stroke-width="1" fill="none">
+    <line x1="0" y1="100" x2="1200" y2="100"/><line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="300" x2="1200" y2="300"/><line x1="300" y1="0" x2="300" y2="400"/>
+    <line x1="600" y1="0" x2="600" y2="400"/><line x1="900" y1="0" x2="900" y2="400"/>
+  </g>
+  <circle cx="55" cy="55" r="165" fill="none" stroke="#2ECC71" stroke-width="1" opacity="0.07"/>
+  <circle cx="55" cy="55" r="220" fill="none" stroke="#2ECC71" stroke-width="1" opacity="0.04"/>
+  <circle cx="1165" cy="365" r="135" fill="none" stroke="#2ECC71" stroke-width="1" opacity="0.055"/>
+
+  <!-- Level badge — gold accent for highest level -->
+  <rect x="60" y="44" width="60" height="60" rx="15" fill="url(#badge7)"/>
+  <!-- Trophy icon area -->
+  <text x="90" y="68" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="10" font-weight="700" fill="rgba(255,255,255,0.9)" text-anchor="middle" letter-spacing="0.04em">RQF</text>
+  <text x="90" y="92" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="24" font-weight="800" fill="#FFF" text-anchor="middle">7</text>
+
+  <!-- Equivalency pill -->
+  <rect x="134" y="57" width="204" height="30" rx="15" fill="rgba(46,204,113,0.18)" stroke="rgba(46,204,113,0.45)" stroke-width="1.5"/>
+  <text x="236" y="77" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="12" font-weight="700" fill="#2ECC71" text-anchor="middle">≡ Postgraduate Equivalent</text>
+
+  <!-- CPD pill -->
+  <rect x="348" y="57" width="148" height="30" rx="15" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+  <text x="422" y="77" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" fill="rgba(255,255,255,0.9)" text-anchor="middle">🏆 CPD Recognised</text>
+
+  <!-- Headlines -->
+  <text x="60" y="150" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="36" font-weight="800" fill="#FFF" letter-spacing="-0.02em">ATHE Level 7</text>
+  <text x="60" y="192" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="36" font-weight="800" fill="#2ECC71" letter-spacing="-0.02em">Assignment Help</text>
+  <text x="60" y="224" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="15" fill="rgba(255,255,255,0.65)">Strategic Management · Healthcare Management · NHS &amp; leadership frameworks</text>
+
+  <!-- Subjects -->
+  <g transform="translate(60, 244)">
+    <text x="0" y="14" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="10" font-weight="700" fill="rgba(255,255,255,0.4)" letter-spacing="0.1em">SUBJECTS AT LEVEL 7</text>
+    <rect x="0" y="20" width="160" height="28" rx="14" fill="rgba(46,204,113,0.12)" stroke="rgba(46,204,113,0.3)" stroke-width="1"/>
+    <text x="80" y="38" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#2ECC71" text-anchor="middle">Strategic Management</text>
+    <rect x="168" y="20" width="160" height="28" rx="14" fill="rgba(46,204,113,0.12)" stroke="rgba(46,204,113,0.3)" stroke-width="1"/>
+    <text x="248" y="38" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#2ECC71" text-anchor="middle">Healthcare Management</text>
+    <rect x="336" y="20" width="130" height="28" rx="14" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="401" y="38" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="11" font-weight="500" fill="rgba(255,255,255,0.8)" text-anchor="middle">NHS Long Term Plan</text>
+  </g>
+
+  <!-- Student profiles row -->
+  <g transform="translate(60, 316)">
+    <text x="0" y="14" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="10" font-weight="700" fill="rgba(255,255,255,0.4)" letter-spacing="0.1em">TYPICAL STUDENTS</text>
+    <g font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.7)">
+      <text x="0" y="34"><tspan fill="#2ECC71" font-weight="700">› </tspan>NHS Managers &amp; Directors</text>
+      <text x="200" y="34"><tspan fill="#2ECC71" font-weight="700">› </tspan>HR Directors</text>
+      <text x="340" y="34"><tspan fill="#2ECC71" font-weight="700">› </tspan>Senior Business Managers</text>
+    </g>
+  </g>
+
+  <!-- RIGHT cards -->
+  <g transform="translate(730, 44)" filter="url(#sh7)">
+    <rect width="180" height="96" rx="12" fill="rgba(46,204,113,0.12)" stroke="rgba(46,204,113,0.28)" stroke-width="1"/>
+    <text x="16" y="30" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="22">🏥</text>
+    <text x="16" y="56" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#FFF">NHS Long Term</text>
+    <text x="16" y="72" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#2ECC71">Plan 2019</text>
+    <text x="16" y="86" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="10" fill="rgba(255,255,255,0.5)">Policy framework coverage</text>
+  </g>
+
+  <g transform="translate(930, 44)" filter="url(#sh7)">
+    <rect width="180" height="96" rx="12" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="16" y="30" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="22">♟️</text>
+    <text x="16" y="56" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#FFF">Porter · Kotter</text>
+    <text x="16" y="72" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#2ECC71">Mintzberg · Ansoff</text>
+    <text x="16" y="86" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="10" fill="rgba(255,255,255,0.5)">Strategic frameworks applied</text>
+  </g>
+
+  <g transform="translate(730, 158)" filter="url(#sh7)">
+    <rect width="180" height="96" rx="12" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="16" y="30" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="22">📊</text>
+    <text x="16" y="56" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#FFF">Distinction-Level</text>
+    <text x="16" y="72" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#2ECC71">Synthesis &amp; Critique</text>
+    <text x="16" y="86" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="10" fill="rgba(255,255,255,0.5)">Postgraduate standard writing</text>
+  </g>
+
+  <g transform="translate(930, 158)" filter="url(#sh7)">
+    <rect width="180" height="96" rx="12" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <text x="16" y="30" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="22">👔</text>
+    <text x="16" y="56" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#FFF">Employer-Funded</text>
+    <text x="16" y="72" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#2ECC71">CPD Support</text>
+    <text x="16" y="86" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="10" fill="rgba(255,255,255,0.5)">Senior professionals</text>
+  </g>
+
+  <rect x="730" y="278" width="420" height="82" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="750" y="300" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="10" font-weight="700" fill="rgba(255,255,255,0.4)" letter-spacing="0.08em">EVERY ORDER INCLUDES</text>
+  <g font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.75)">
+    <text x="750" y="320"><tspan fill="#2ECC71" font-weight="700">✓ </tspan>Postgraduate-standard writing</text>
+    <text x="750" y="340"><tspan fill="#2ECC71" font-weight="700">✓ </tspan>Strategic framework application</text>
+    <text x="980" y="320"><tspan fill="#2ECC71" font-weight="700">✓ </tspan>Turnitin report</text>
+    <text x="980" y="340"><tspan fill="#2ECC71" font-weight="700">✓ </tspan>Free revisions</text>
+  </g>
+
+  <!-- Gold top accent bar for Level 7 prestige -->
+  <rect x="0" y="0" width="1200" height="4" fill="#F1C40F" opacity="0.6"/>
+  <rect x="0" y="394" width="560" height="6" fill="#2ECC71"/>
+  <rect x="0" y="390" width="1200" height="10" fill="#2ECC71" opacity="0.5"/>
+</svg>

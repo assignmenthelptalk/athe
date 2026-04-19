@@ -1,0 +1,374 @@
+{
+  "meta": {
+    "siteTitle": "ATHE Assignment Help | Expert Level 3–7 Support",
+    "siteDescription": "Professional ATHE assignment help for Level 3–7 students. Expert writers, plagiarism-free work, on-time delivery. Trusted by 5,000+ students.",
+    "siteUrl": "https://athe-assignment-help.co.uk",
+    "faviconPath": "/favicon.ico",
+    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+  },
+  "colors": {
+    "primary": "#1B2B4B",
+    "primaryDark": "#111D33",
+    "accent": "#2ECC71",
+    "accentDark": "#27AE60",
+    "accentLight": "#EAFAF1",
+    "gold": "#F1C40F",
+    "goldDark": "#D4AC0D",
+    "textBase": "#1A1A2E",
+    "textMuted": "#6B7280",
+    "bgWhite": "#FFFFFF",
+    "bgLight": "#F3F4F6",
+    "bgDark": "#1B2B4B",
+    "borderLight": "#E5E7EB",
+    "starColor": "#F59E0B",
+    "white": "#FFFFFF"
+  },
+  "typography": {
+    "fontFamily": "'Inter', sans-serif"
+  },
+  "header": {
+    "logoText": "ATHE Help",
+    "logoHref": "/",
+    "navLinks": [
+      {
+        "label": "Services",
+        "href": "#services"
+      },
+      {
+        "label": "About",
+        "href": "#about"
+      },
+      {
+        "label": "How It Works",
+        "href": "#how-it-works"
+      },
+      {
+        "label": "FAQ",
+        "href": "#faq"
+      }
+    ],
+    "ctaButton": {
+      "label": "Get Help Now",
+      "href": "#contact"
+    }
+  },
+  "hero": {
+    "headingLine1": "Expert",
+    "headingHighlight": "ATHE Assignment Help",
+    "headingLine3": "You Can Trust",
+    "subtext": "Struggling with ATHE assignments? Our qualified writers deliver plagiarism-free, fully referenced work tailored to ATHE marking criteria — every time.",
+    "primaryCta": {
+      "label": "Get Your Assignment Done",
+      "href": "#contact"
+    },
+    "secondaryCta": {
+      "label": "See how it works",
+      "href": "#how-it-works"
+    },
+    "badges": [
+      {
+        "icon": "✓",
+        "text": "100% Plagiarism Free"
+      },
+      {
+        "icon": "✓",
+        "text": "On-Time Delivery"
+      },
+      {
+        "icon": "✓",
+        "text": "Expert ATHE Writers"
+      },
+      {
+        "icon": "✓",
+        "text": "Free Revisions"
+      },
+      {
+        "icon": "✓",
+        "text": "Confidential & Secure"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "icon": "🎓",
+      "value": "5,000+",
+      "label": "Assignments Completed"
+    },
+    {
+      "icon": "⭐",
+      "value": "4.9/5",
+      "label": "Average Rating"
+    },
+    {
+      "icon": "📅",
+      "value": "98%",
+      "label": "On-Time Delivery"
+    },
+    {
+      "icon": "🏆",
+      "value": "12+",
+      "label": "Years Experience"
+    }
+  ],
+  "about": {
+    "sectionId": "about",
+    "heading": "Why Students Trust Our ATHE Assignment Help",
+    "paragraphs": [
+      "We specialise exclusively in ATHE (Awards for Training and Higher Education) qualifications, with a dedicated team of writers who have direct experience helping ATHE Assignment Help students succeed.",
+      "Academic assignment help service — monetizes by providing ATHE written assignment guidance, criterion-referenced grading strategy, learning outcome structuring support, and level-specific tutoring for students enrolled in qualifications awarded by ATHE (Awards for Training and Higher Education), an Ofqual-regulated UK awarding organisation offering Level 3 to Level 7 diplomas in business management, healthcare management, tourism and hospitality, computing, and education."
+    ],
+    "highlights": [
+      "ATHE-specialist writers",
+      "Unit-by-unit learning outcome alignment",
+      "Harvard referencing as standard",
+      "Turnitin originality report included"
+    ],
+    "imagePlaceholderAlt": "ATHE Assignment Help illustration"
+  },
+  "qualifications": {
+    "sectionId": "services",
+    "heading": "ATHE Qualifications We Cover",
+    "subheading": "Expert support across all ATHE Assignment Help pathways — Level 3 to Level 7.",
+    "cards": [
+      {
+        "icon": "🎓",
+        "title": "ATHE Assignment Help",
+        "description": "Expert guidance for all ATHE qualifications — Level 3 to Level 7. Criterion-referenced writing, LO mapping, and Harvard referencing support across all subjects.",
+        "href": "/athe-assignment-help/"
+      },
+      {
+        "icon": "📗",
+        "title": "ATHE Level 3 Assignment Help",
+        "description": "Extended Diploma guidance for Business, Healthcare, and Tourism students. Pass, Merit, and Distinction grading strategies for coursework-only assessment.",
+        "href": "/athe-level-3-assignment-help/"
+      },
+      {
+        "icon": "📙",
+        "title": "ATHE Level 4 Assignment Help",
+        "description": "Diploma guidance — CertHE equivalent. LO-based analytical writing support for Business Management, Healthcare, Computing, and Tourism students.",
+        "href": "/athe-level-4-assignment-help/"
+      },
+      {
+        "icon": "📕",
+        "title": "ATHE Level 5 Assignment Help",
+        "description": "Extended Diploma guidance — DipHE equivalent. Critical evaluation and independent research support for degree top-up progression.",
+        "href": "/athe-level-5-assignment-help/"
+      },
+      {
+        "icon": "📚",
+        "title": "ATHE Level 6 Assignment Help",
+        "description": "Degree-level Diploma guidance for Business Management and Healthcare Management. Research project support included.",
+        "href": "/athe-level-6-assignment-help/"
+      },
+      {
+        "icon": "🏆",
+        "title": "ATHE Level 7 Assignment Help",
+        "description": "Postgraduate-equivalent Strategic Management and Healthcare Management guidance. Distinction-level synthesis, NHS policy frameworks, and strategic analysis.",
+        "href": "/athe-level-7-assignment-help/"
+      }
+    ]
+  },
+  "features": {
+    "heading": "What's Included in Every Order",
+    "cards": [
+      {
+        "icon": "📝",
+        "title": "Custom Written Content",
+        "description": "Every piece is written from scratch to your brief, unit outcomes, and word count."
+      },
+      {
+        "icon": "🔍",
+        "title": "Plagiarism Report",
+        "description": "Turnitin originality report included with every submission."
+      },
+      {
+        "icon": "📚",
+        "title": "Full Harvard Referencing",
+        "description": "Properly formatted reference list and in-text citations per ATHE requirements."
+      },
+      {
+        "icon": "✏️",
+        "title": "Unlimited Revisions",
+        "description": "Not satisfied? We revise until the work meets your expectations."
+      },
+      {
+        "icon": "🔒",
+        "title": "Strict Confidentiality",
+        "description": "Your identity and order details are never shared with third parties."
+      },
+      {
+        "icon": "⚡",
+        "title": "Express Delivery",
+        "description": "Need it fast? We offer 24-hour turnaround for urgent assignments."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "Why Choose Us Over Others",
+    "items": [
+      {
+        "icon": "🎯",
+        "title": "ATHE Specialists",
+        "description": "Unlike generic services, we focus solely on ATHE and vocational qualifications."
+      },
+      {
+        "icon": "👨‍🏫",
+        "title": "Qualified Writers",
+        "description": "All writers hold ATHE Level 6+ or equivalent academic credentials in their subject area."
+      },
+      {
+        "icon": "💬",
+        "title": "Direct Communication",
+        "description": "Message your writer directly via our platform throughout the project."
+      },
+      {
+        "icon": "💰",
+        "title": "Transparent Pricing",
+        "description": "Fixed prices published upfront. No hidden fees, ever."
+      }
+    ]
+  },
+  "testimonials": {
+    "heading": "What Our Students Say",
+    "items": [
+      {
+        "stars": 5,
+        "quote": "Got a Distinction on my Level 5 Business Management unit thanks to the detailed feedback and perfectly structured assignment. Absolutely worth it.",
+        "name": "Sarah M.",
+        "course": "ATHE Level 5 Business Management"
+      },
+      {
+        "stars": 5,
+        "quote": "Submitted my healthcare management assignment two days early and my assessor praised the depth of analysis. The writer clearly understood the ATHE criteria.",
+        "name": "James K.",
+        "course": "ATHE Level 4 Healthcare Management"
+      },
+      {
+        "stars": 5,
+        "quote": "The Level 6 research project support was exceptional. The literature review was thorough, well-cited, and required zero revisions. Highly recommend.",
+        "name": "Priya T.",
+        "course": "ATHE Level 6 Business Management"
+      }
+    ]
+  },
+  "howItWorks": {
+    "sectionId": "how-it-works",
+    "heading": "How It Works",
+    "subheading": "Four simple steps from brief to brilliant assignment.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Submit Your Brief",
+        "description": "Share your unit details, word count, deadline, and any guidance from your tutor."
+      },
+      {
+        "number": "02",
+        "title": "Get Matched",
+        "description": "We assign your order to a specialist ATHE writer within 30 minutes."
+      },
+      {
+        "number": "03",
+        "title": "Track Progress",
+        "description": "Monitor your assignment in real-time and message your writer directly."
+      },
+      {
+        "number": "04",
+        "title": "Download & Submit",
+        "description": "Receive your completed, plagiarism-checked assignment before your deadline."
+      }
+    ]
+  },
+  "faq": {
+    "sectionId": "faq",
+    "heading": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Is this service specific to ATHE qualifications?",
+        "answer": "Yes. We specialise exclusively in ATHE (Awards for Training and Higher Education) qualifications. Our writers are selected for their specific knowledge of ATHE units, marking criteria, and grade descriptors — not generic academic writing."
+      },
+      {
+        "question": "Will my assignment be plagiarism free?",
+        "answer": "Every assignment is written from scratch and run through Turnitin before delivery. You receive a copy of the originality report alongside your completed work."
+      },
+      {
+        "question": "How quickly can you complete my assignment?",
+        "answer": "Standard turnaround is 5–7 days. For urgent orders we offer 24-hour and 48-hour expedited delivery at an additional cost. Contact us to confirm availability for your deadline."
+      },
+      {
+        "question": "What if I'm not happy with the work?",
+        "answer": "We offer unlimited free revisions within 14 days of delivery. If we cannot meet your requirements after multiple revisions, we offer a full refund — no questions asked."
+      },
+      {
+        "question": "Is my information kept confidential?",
+        "answer": "Absolutely. We never share your personal information or order details with any third party. Payments are processed through secure, encrypted channels and no identifying information is stored unnecessarily."
+      },
+      {
+        "question": "Which ATHE levels and qualifications do you support?",
+        "answer": "We support Level 3 to Level 7 across all ATHE (Awards for Training and Higher Education) qualification pathways. See our qualifications page for the full list of units and programmes covered."
+      }
+    ]
+  },
+  "mission": {
+    "heading": "Our Mission",
+    "text": "To be the most trusted academic support service for ATHE students in the UK — delivering expert, ethical, and empowering assignment help that helps learners understand their subject, hit their grades, and progress their careers."
+  },
+  "finalCta": {
+    "heading": "Ready to Ace Your ATHE Assignment?",
+    "subtext": "Join thousands of students who've already earned better grades with our support. Place your order in under 2 minutes.",
+    "button": {
+      "label": "Start Your Order Today",
+      "href": "#contact"
+    }
+  },
+  "footer": {
+    "logoText": "ATHE Help",
+    "description": "The UK's leading specialist in ATHE assignment support. Trusted by 5,000+ students across Level 3 to Level 7.",
+    "columns": [
+      {
+        "heading": "Quick Links",
+        "links": [
+          {
+            "label": "Services",
+            "href": "#services"
+          },
+          {
+            "label": "About Us",
+            "href": "#about"
+          },
+          {
+            "label": "How It Works",
+            "href": "#how-it-works"
+          },
+          {
+            "label": "FAQ",
+            "href": "#faq"
+          }
+        ]
+      },
+      {
+        "heading": "Qualification Levels",
+        "links": [
+          { "label": "ATHE Level 3 Help", "href": "/athe-level-3-assignment-help/" },
+          { "label": "ATHE Level 4 Help", "href": "/athe-level-4-assignment-help/" },
+          { "label": "ATHE Level 5 Help", "href": "/athe-level-5-assignment-help/" },
+          { "label": "ATHE Level 6 Help", "href": "/athe-level-6-assignment-help/" },
+          { "label": "ATHE Level 7 Help", "href": "/athe-level-7-assignment-help/" }
+        ]
+      },
+      {
+        "heading": "Contact",
+        "links": [
+          {
+            "label": "support@athe-help.co.uk",
+            "href": "mailto:support@athe-help.co.uk"
+          },
+          {
+            "label": "WhatsApp Us",
+            "href": "https://wa.me/447700900000"
+          }
+        ]
+      }
+    ],
+    "copyright": "© 2026 ATHE Assignment Help. All rights reserved."
+  }
+}
